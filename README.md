@@ -162,7 +162,8 @@ http://127.0.0.1:8000/docs
   "has_homepage": 1,
   "release_year": 2015
 }
-
+```
+---
 
 ## 🐳 Docker Usage
 
